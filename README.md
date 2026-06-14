@@ -96,8 +96,6 @@ Uporabljene knjižnice:
 - `collections.deque` za učinkovito izvajanje algoritma BFS,
 - `unittest` za testiranje.
 
-> Opomba: Pygame trenutno morda ne deluje pravilno s Python 3.14, ker za to različico ni nujno na voljo pripravljeno kolesce za namestitev. Priporočena je uporaba Python 3.12 ali Python 3.13.
-
 ## Zgradba projekta
 
 ```text
