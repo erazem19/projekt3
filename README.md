@@ -5,6 +5,7 @@
 - [Opis projekta](#opis-projekta)
 - [Namen projekta](#namen-projekta)
 - [Končni izdelek](#končni-izdelek)
+- [Slike programa](#slike-programa)
 - [Glavne funkcionalnosti](#glavne-funkcionalnosti)
 - [Uporabljene tehnologije](#uporabljene-tehnologije)
 - [Zgradba projekta](#zgradba-projekta)
@@ -51,6 +52,22 @@ Program ima dva načina uporabe:
 - besedilni ASCII način, ki deluje tudi brez Pygame.
 
 ASCII način je uporaben za hitro testiranje, grafični način pa omogoča bolj pregleden prikaz zemljevida.
+
+## Slike programa
+
+Spodnji sliki sta ustvarjeni z dejanskim Pygame prikazom programa. Uporabljen je bil primer zemljevida s semenom `2026`, velikostjo `60 x 34`, `14` sobami in `30 %` dodatne povezanosti.
+
+### Celoten Pygame prikaz
+
+![Celoten prikaz programa v Pygame](assets/screenshots/pygame-celoten-program.png)
+
+Na tej sliki je prikazan celoten program: ustvarjen zemljevid na levi strani in nadzorna plošča na desni strani. Uporabnik lahko spremeni velikost mreže, število sob in povezanost ter nato ustvari nov zemljevid.
+
+### Zemljevid z najdeno potjo
+
+![Zemljevid z označeno BFS potjo](assets/screenshots/pygame-zemljevid-pot.png)
+
+Na tej sliki je prikazan samo zemljevid. Svetla polja predstavljajo tla, temna polja zidove, zelena točka začetek, rdeča točka konec, modra pot pa rezultat algoritma BFS.
 
 ## Glavne funkcionalnosti
 
