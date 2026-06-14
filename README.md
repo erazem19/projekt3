@@ -59,13 +59,13 @@ Spodnji sliki sta ustvarjeni z dejanskim Pygame prikazom programa. Uporabljen je
 
 ### Celoten Pygame prikaz
 
-![Celoten prikaz programa v Pygame](assets/screenshots/pygame-celoten-program.png)
+![Celoten prikaz programa v Pygame](pygame-celoten-program.png)
 
 Na tej sliki je prikazan celoten program: ustvarjen zemljevid na levi strani in nadzorna plošča na desni strani. Uporabnik lahko spremeni velikost mreže, število sob in povezanost ter nato ustvari nov zemljevid.
 
 ### Zemljevid z najdeno potjo
 
-![Zemljevid z označeno BFS potjo](assets/screenshots/pygame-zemljevid-pot.png)
+![Zemljevid z označeno BFS potjo](pygame-zemljevid-pot.png)
 
 Na tej sliki je prikazan samo zemljevid. Svetla polja predstavljajo tla, temna polja zidove, zelena točka začetek, rdeča točka konec, modra pot pa rezultat algoritma BFS.
 
